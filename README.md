@@ -67,6 +67,8 @@ A EAP (Estrutura Analítica do Projeto) é um diagrama que organiza o escopo do 
 <span id="resultado">
  
 ## 📚Resultado do Projeto
+### Manual:
+([Clique aqui](https://github.com/MavPro-tech/Painel_Didatico/blob/main/Sprints/Sprint_04/Manual%20Partida%20direta%20com%20revers%C3%A3o%20via%20CLP.pdf))
 
 ### Croqui Inicial:
 <img width="534" height="800" alt="Croqui-chatgpt" src="https://github.com/user-attachments/assets/97b5e240-ff21-4a97-b1aa-0c6454178efe" />
