@@ -2,105 +2,116 @@
 <img width="1376" height="768" alt="Gemini_Generated_Image_cwpclwcwpclwcwpc" src="https://github.com/user-attachments/assets/4042428b-7999-4757-a5fa-63affebad6c9" />
 
 
+<h1 align="center"> Entrega - 02</h1>
 
-<br>
- 
+##
+
 <p align="center">
-  <a href="#objetivo">Objetivo do Projeto </a>  |
-  <a href="#visão">Visão do Produto </a>  |
-  <a href="#metodologia">Metodologia </a>  |
-  <a href="#sprints">Sprints</a>  |
-  <a href="#resultado">Resultado</a>  |
-  <a href="#concluido">Conclusão</a>  |
-  <a href="#autores">Autores</a>  
+  <a href="#requisito">Requisitos </a> 
+  |
+  <a href="#objetivo">Objetivo da Sprint </a>
+  |
+  <a href="#desenvolvimento">Desenvolvimento </a>
+  |
+  <a href="#cronograma">Cronograma </a>
+  
 </p>
+
+##
+
+**Início: 22/09  - Fim: 10/10**
+
+**Status da Sprint: Concluída ✅**
+<br>
+
 
 </br>
 
+
+<span id="requisito">
+  
+ ## 📜Requisitos
+
+Desenvolver um painel didático de automação industrial para demonstrar a partida direta e a reversão do sentido de rotação de um motor trifásico, utilizando o CLP Siemens LOGO! como elemento central de controle. O sistema integra circuitos de potência e comando, programação em Ladder, contatores, dispositivos de proteção e sinalização visual e sonora, permitindo demonstrar os princípios de funcionamento e segurança aplicados à automação industrial.
+
 <span id="objetivo">
   
-## 📌Objetivo do Projeto
-> [!IMPORTANT]
-> O objetivo do projeto é desenvolver e montar um painel didático de automação industrial para demonstrar o funcionamento da partida direta com reversão do sentido de rotação de um motor elétrico trifásico, utilizando o Controlador Lógico Programável (CLP) Siemens LOGO!. O sistema integra circuitos de potência e comando com programação em linguagem Ladder, permitindo o acionamento do motor nos sentidos horário e anti-horário, além de implementar intertravamentos, parada de emergência, tratamento de falhas e sinalização visual e sonora. O projeto também busca proporcionar uma aplicação prática dos conhecimentos de automação industrial, comandos elétricos e programação de CLP.
+## 📌Objetivo da Sprint
+O objetivo desta etapa do projeto é revisar e desenvolver a documentação técnica, planejar a construção do painel didático e definir os componentes e procedimentos necessários para sua montagem e funcionamento. Para alcançar os resultados esperados, foram estabelecidas as seguintes etapas:<br>
+- Revisão e atualização dos documentos elaborados durante as etapas anteriores do projeto;<br>
+- Desenvolvimento dos desenhos técnicos, diagramas elétricos e croqui do painel didático;<br>
+- Planejamento do projeto, incluindo a Estrutura Analítica do Projeto (EAP), o cronograma de atividades e a definição das responsabilidades dos integrantes;<br>
+- Pesquisa e estudo dos componentes elétricos e de automação, incluindo CLP, contatores, disjuntores, fonte de alimentação, botoeiras e dispositivos de sinalização;<br>
+- Desenvolvimento da lógica de controle em Ladder para realizar a partida direta e a reversão do motor trifásico;
+- Elaboração dos circuitos de potência e comando, considerando os intertravamentos elétricos e lógicos, os comandos de parada e emergência e a proteção do sistema;<br>
+- Registro das atividades desenvolvidas pela equipe por meio de documentos, imagens, desenhos, diagramas, simulações e testes;<br>
+- Levantamento dos materiais necessários e estimativa dos custos para a construção do painel;<br>
+- Realização da montagem, das conexões elétricas, dos testes e dos ajustes para verificar o funcionamento do sistema;<br>
+- Elaboração do relatório técnico e do manual do projeto, contendo orientações para montagem, conexões elétricas, programação e operação do painel didático.<br>
 
 
-> **Status do Projeto: Finalizado 🚧**
-
-
-<span id="visão">
+<span id="desenvolvimento">
   
-## 💡Visão do Produto
-O projeto consiste no desenvolvimento de um painel didático destinado ao estudo e à demonstração prática de sistemas de comandos elétricos e automação industrial. A bancada foi projetada para permitir o acionamento e a reversão do sentido de rotação de um motor trifásico por meio de um CLP Siemens LOGO!, integrando dispositivos de proteção, contatores, botoeiras de comando e elementos de sinalização.
+## 📚Desenvolvimento
 
-A proposta é oferecer uma solução didática que facilite a compreensão do funcionamento dos circuitos de potência e comando, bem como da programação em linguagem Ladder. O painel conta com recursos de segurança, como botão de emergência, intertravamento entre contatores e proteção contra sobrecorrentes, contribuindo para uma operação organizada e segura durante as atividades de ensino e treinamento.
+O projeto tem como foco principal o desenvolvimento de um painel didático de automação industrial destinado à demonstração da partida direta e da reversão do sentido de rotação de um motor trifásico por meio do CLP Siemens LOGO!. A proposta busca integrar conhecimentos de eletricidade, comandos elétricos, programação de controladores lógicos programáveis e montagem de sistemas de automação, proporcionando uma aplicação prática dos conceitos estudados.<br>
+O sistema utiliza programação em linguagem Ladder para controlar os contatores responsáveis pelo acionamento do motor nos sentidos horário e anti-horário. Para garantir uma operação adequada, são considerados os intertravamentos elétricos e lógicos, os comandos de partida e parada, o botão de emergência e os dispositivos de proteção. O painel também conta com sinalização visual e sonora para indicar condições de funcionamento do sistema.<br>
 
-Além disso, o projeto possui um manual técnico, elaborado para orientar a montagem, as ligações elétricas, a programação e a operação do painel. A documentação inclui desenhos técnicos, vista explodida, roteiros de fabricação e montagem, diagramas elétricos e lista de materiais, facilitando a compreensão do sistema e permitindo sua reprodução em futuras atividades didáticas.
-<span id="metodologia">
+Para a concretização dos objetivos, o escopo do projeto contempla as seguintes etapas:<br>
+- Pesquisa e estudo dos princípios de partida direta, reversão de motores trifásicos e controle por CLP;<br>
+- Planejamento e seleção dos componentes elétricos e de automação;<br>
+- Elaboração dos desenhos técnicos, do croqui e dos diagramas dos circuitos de potência e comando;<br>
+- Desenvolvimento e simulação da programação em Ladder;<br>
+- Montagem física do painel e instalação dos componentes;<br>
+- Realização das conexões elétricas e dos testes de funcionamento;<br>
+- Verificação dos intertravamentos, dos comandos de parada e emergência e dos dispositivos de proteção;<br>
+- Elaboração dos relatórios técnicos e do manual de montagem, conexão elétrica, programação e operação;<br>
+- Preparação e realização da apresentação final dos resultados obtidos.<br>
+
+A equipe foi organizada de acordo com as responsabilidades definidas no planejamento. <br>
+- Bianca Beatriz e Dara Dias ficaram responsáveis pela documentação e pela lista de materiais;<br>
+- Matheus, pela programação e pelos circuitos elétricos;<br>
+- Nicolas e Samuel Calderan, pelos componentes e pelo manual; <br>
+- As atividades de montagem, testes e ajustes foram realizadas em conjunto pelos integrantes.<br>
+
+As partes interessadas (stakeholders) incluem os alunos integrantes da equipe, os professores, a instituição de ensino e empresas de tecnologia simuladas, que representam possíveis contextos de aplicação dos conhecimentos de automação industrial.<br>
+Para o desenvolvimento e funcionamento do projeto, foram definidos como requisitos essenciais a utilização de um motor trifásico, um CLP ou relé programável, contatores para o acionamento e a reversão, dispositivos de proteção, comandos de operação e elementos de sinalização. A estrutura também contempla uma fonte de alimentação de 24 VCC para o CLP e o circuito de comando.<br>
+
+O projeto considera como premissas fundamentais o funcionamento do motor nos dois sentidos de rotação, a existência de intertravamentos para impedir o acionamento simultâneo dos contatores, a prioridade dos comandos de parada e emergência e a sinalização das condições de funcionamento e falha. Esses requisitos são importantes para demonstrar os princípios de segurança e controle aplicados à automação industrial.<br>
+Entre as restrições identificadas estão o acesso limitado a determinados materiais e o custo dos componentes necessários à montagem. Esses fatores foram considerados durante o planejamento e a seleção dos materiais.<br>
+
+## Circuito Elétrico
+
+•	Circuito do Motor, CLP e LADDER
+<img width="1262" height="816" alt="Circuito-motor, CLP e ladder" src="https://github.com/user-attachments/assets/be53aed0-01da-48b7-a77d-24028206af12" />
+
+
+
+## Croqui - Design Final
+<img width="534" height="800" alt="Croqui-chatgpt" src="https://github.com/user-attachments/assets/73a67c3d-eee6-497e-a9bd-a6b58a0604ed" />
+
+•	Design Final do projeto, com uma imagem criada por IA com o prompt dos próprios autores.<br>
+
+## EAP - Estrutura Analítica do Projeto
+
+•	Foi fixado na parte inicial do GitHub do Projeto, ao qual é representado pelo período e projeto completo.<br>
+
+<span id="cronograma">
+
+## 📅Cronograma
+O cronograma do projeto foi organizado para o período de fevereiro a junho de 2026, abrangendo as atividades de pesquisa, planejamento, seleção de componentes, desenvolvimento dos circuitos, montagem, testes, documentação e apresentação final.
+
+<img width="1133" height="944" alt="Gemini_Generated_Image_q3qm72q3qm72q3qm" src="https://github.com/user-attachments/assets/aa155465-13b0-40d0-87ff-dee3332d0aa9" />
+
+
+> 
+
+
+## 📝Documentação:  [Clique Aqui](https://github.com/MavPro-tech/Painel_Didatico/tree/main/Sprints/Sprint_02)
+
+<br>
+
   
-## 📚Metodologia
-A metodologia adotada para o desenvolvimento do projeto foi organizada em etapas, abrangendo pesquisa, planejamento, seleção de componentes, elaboração de desenhos técnicos, simulação, montagem física, programação do CLP, testes e documentação. As atividades foram distribuídas entre os integrantes da equipe, de acordo com as responsabilidades definidas para cada etapa.
-
-O desenvolvimento começou com o levantamento das necessidades e dos requisitos do painel, seguido pela definição dos componentes elétricos e mecânicos necessários à construção do sistema. Posteriormente, foram elaborados os circuitos de potência e comando e a programação em linguagem Ladder, contemplando as funções de partida, reversão, intertravamento, parada, emergência e sinalização.
-
-Na sequência, ocorreu a montagem da estrutura física, a instalação dos componentes e a realização dos ajustes necessários. As simulações e os testes práticos foram utilizados para verificar o funcionamento do sistema e validar as funções implementadas. Por fim, foi elaborada a documentação técnica, incluindo o manual do projeto, com o objetivo de registrar os procedimentos de montagem, ligação, programação e operação do painel.
-
-## 📚EAP - Estrutura Analítica do Projeto
-A EAP (Estrutura Analítica do Projeto) é um diagrama que organiza o escopo do projeto de forma visual, hierárquica e em partes menores, a fim de facilitar o gerenciamento das entregas. Em outras palavras, é uma ferramenta que organiza o trabalho que será realizado no projeto, representando graficamente e simplificadamente o escopo.
-
-<img width="1024" height="768" alt="EAP- 3 semestre" src="https://github.com/user-attachments/assets/e7a19248-9aeb-4380-a11d-ca85eece661f" />
-
-- Dicionario EAP
-<img width="1391" height="752" alt="Gemini_Generated_Image_bc9borbc9borbc9b" src="https://github.com/user-attachments/assets/34f9caad-d768-4696-910c-8b25ae96582c" />
-
-
-<span id="sprints">
-
-## 📅Sprints 
-
-#### Entrega - 1️⃣ 🎯 ([Clique aqui]())  Concluído ✅
-#### Entrega - 2️⃣ 🎯 ([Clique aqui]())  Concluído ✅
-#### Entrega - 3️⃣ 🎯 ([Clique aqui]())  Concluído ✅
-#### Entrega - 4️⃣ 🎯 ([Clique aqui]())  Concluído ✅
-
-</br> 
-
-<span id="resultado">
- 
-## 📚Resultado do Projeto
-
-### Croqui Inicial:
-<img width="534" height="800" alt="Croqui-chatgpt" src="https://github.com/user-attachments/assets/97b5e240-ff21-4a97-b1aa-0c6454178efe" />
-
-
-
-### Resultado Final:
-<img width="1200" height="1600" alt="Finalizado" src="https://github.com/user-attachments/assets/e7b17d2c-0d56-41d3-8733-84c6e086f3e6" />
-
-
-### Funcionamento:
-https://github.com/user-attachments/assets/94161d4f-862c-4fd4-9f8f-02d1aa38ab02
-
-
-
-
-</br> 
-
-<span id="concluido">
- 
-## ✅Conclusão
-*Com a finalização deste projeto, foi possível comprovar o funcionamento eficaz do sensor óptico de barreira, atendendo plenamente aos objetivos inicialmente propostos. O sistema demonstrou ser funcional, de fácil implementação e capaz de detectar de forma precisa a interrupção de objetos na barreira de luz, ativando os sinais sonoro e luminoso conforme planejado. Durante o desenvolvimento, a colaboração entre os integrantes da equipe foi essencial, promovendo um ambiente de trabalho cooperativo e produtivo. O comprometimento coletivo foi determinante para a superação dos desafios encontrados ao longo do processo, especialmente nas etapas de montagem e soldagem dos componentes na placa de circuito impresso, que exigiram atenção, paciência e precisão.* 
-
-</br> 
-
-<span id="autores">
+  ---
   
-## 👥 Autores
-|      Nome      |                           Links                            | 
-| :--------------: | :----------------------------------------------------------: | 
-| Dara Dias Motta Boa Sorte  | <a href="mailto:dara.sorte@aluno.cps.sp.gov.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/dara-boa-sorte-53364437a?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-| Matheus Takahashi Caldeira  | <a href="mailto:matheus.caldeira@aluno.cps.sp.gov.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a link ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | 
-| Bianca Beatriz Rezende de Melo  | <a href="mailto:bianca.melo01@aluno.cps.sp.gov.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/bianca-beatriz-945a731a2?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-| Samuel dos Santos Calderan  |  <a href="mailto:samuel.calderan@aluno.cps.sp.gov.br "><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a link ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-| Nicolas Haimon Nogueira |  <a href="mailto:nicolas.nogueira01@aluno.cps.sp.gov.br "><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a link ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-
----
+</div>
