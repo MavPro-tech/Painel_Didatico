@@ -91,7 +91,6 @@ https://github.com/user-attachments/assets/94161d4f-862c-4fd4-9f8f-02d1aa38ab02
  
 ## ✅Conclusão
 *Com a finalização deste projeto, foi possível demonstrar o funcionamento do painel didático de partida direta com reversão de um motor trifásico, utilizando o CLP Siemens LOGO! como elemento central de controle. O sistema permitiu aplicar os conceitos de automação industrial por meio da programação em Ladder, do acionamento dos contatores e da integração dos circuitos de potência e comando. Durante os testes, foram verificados o funcionamento do motor nos dois sentidos de rotação, a atuação dos intertravamentos elétricos e lógicos e a resposta aos comandos de parada e emergência, além dos recursos de sinalização visual e sonora.
-
 Ao longo do desenvolvimento, a colaboração entre os integrantes da equipe foi fundamental para a realização das atividades de pesquisa, planejamento, seleção de componentes, programação, montagem e testes. Os desafios encontrados durante essas etapas contribuíram para ampliar os conhecimentos técnicos e desenvolver habilidades de resolução de problemas e trabalho em equipe. Além disso, a elaboração da documentação técnica e do manual do projeto permitiu reunir orientações sobre a montagem, as conexões elétricas, a programação e a operação do painel. Dessa forma, o projeto alcançou seu propósito de proporcionar um recurso didático para o estudo prático de comandos elétricos e automação industrial.*
 
 </br> 
