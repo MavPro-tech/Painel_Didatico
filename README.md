@@ -20,7 +20,7 @@
 
 ##
 
-**Início: 15/10  - Fim: 14/11**
+**Início: 08/04  - Fim: 06/05**
 
 **Status da Sprint: Concluído ✅**
 <br>
